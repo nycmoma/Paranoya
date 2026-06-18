@@ -1,5 +1,11 @@
 # Paranoya
 
+This will be a Linux distribution that is aware of all changes that are happening in the system, for example: when you start an application or service, what directories/files it accessed/wrote, what ports were opened, inbound/outbound network traffic, addresses, how much resources it consumed, what hardware it accessed, system calls, unusual CPU/GPU/TPU instructions, etc. The whole app profile will be stored in a special protected/encrypted place. This distribution is great to test new/suspicious apps, learn how Linux OS works, entertain cyber-security specialists and people with paranoia.
+
+Ideally it should be able to profile not only apps, but users, daemons, AIs, ghosts, vampires and aliens.
+
+## Translation to corporate language (copilot generated):
+
 Paranoya is a Linux distribution concept focused on **full-system behavioral observability** for applications and services.
 
 It is designed for:
