@@ -4,6 +4,19 @@ This will be a Linux distribution that is aware of all changes that are happenin
 
 Ideally it should be able to profile not only apps, but users, daemons, AIs, ghosts, vampires and aliens.
 
+features:
+- extended monitoring
+- extended reporting
+- extended control
+- system micro-rollbacks (app level rollbacks)
+- system/state backups
+- apps isolation/virtualisation
+- hardened kernel/system libs
+- ability to pretend other OS/dist
+- ...
+- can fly
+
+
 ## Translation to corporate language (copilot generated):
 
 Paranoya is a Linux distribution concept focused on **full-system behavioral observability** for applications and services.
